@@ -8,4 +8,5 @@
     "note 6",
     "note 7",
   );
+echo $notes[rand(0,6)];
 ?>
