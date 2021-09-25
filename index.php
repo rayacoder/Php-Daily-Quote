@@ -10,6 +10,6 @@
     "note 7",
   );
 
-echo $notes[rand(0,count($notes)-1)];
+  echo $notes[rand(0,count($notes)-1)];
 
 ?>
