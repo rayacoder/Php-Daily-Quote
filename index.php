@@ -1,6 +1,6 @@
 <?php 
 
-  $notes = array(
+  $quotes = array(
     "note 1",
     "note 2",
     "note 3",
@@ -10,6 +10,6 @@
     "note 7",
   );
 
-  echo $notes[rand(0,count($notes)-1)];
+  echo $quotes[rand(0,count($notes)-1)];
 
 ?>
